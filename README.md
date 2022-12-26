@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jamate16
-- 👀 I’m interested in constant learning and getting a job in the data science field.
+- 👀 I’m interested in life long learning and getting a job in the data science field.
 - 🌱 I’m currently learning data science with python, the programming language julia, c++ development and unreal engine 5.
 
 <!---
