@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jamate16
-- 👀 I’m interested in life long learning and working in the data science field.
+- 👀 I’m interested in life long learning and working in data science.
 - 🌱 I’m currently learning data science with python, c++ development and data engineering.
 
 <!---
